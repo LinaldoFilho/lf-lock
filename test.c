@@ -4,7 +4,7 @@
 #include <pthread.h>
 
 // gcc -pthread -o test test.c lf_lock_manager.c
-// printf("%s:%d :=: %s\r\n", __FILE__, __LINE__, __PRETTY_FUNCTION__);
+// printf("%s:%d :=: %s \r\n", __FILE__, __LINE__, __PRETTY_FUNCTION__);
 
 #include "lf_lock_manager.h"
 
